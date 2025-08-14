@@ -1,179 +1,77 @@
-# CETI
-## Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información
-![Ciberseguridad en Entornos TI](./img/security-web.jpg "Ciberseguridad en Entornos TI") 
----
-<p>Al igual que con la especialización en <a href="https://github.com/JagMolar/IABD" title="IABD" target="_blank" rel="noopener noreferrer" >Inteligencia Artificial y Big Data</a>, he creado este repositorio 
-con el fin de tener a mano toda la información recibida para poder refrescar conocimientos, 
-intentar ser de ayuda para quien pueda necesitarlo durante su formación o servir de base para 
-quienes quieran conocer un poco este mundo que crece sin descanso.</p>
-<p>Os lo dejo desde mi prisma de alumno, con lo bueno y lo malo que eso conlleva, pero con la 
-esperanza de que os sirva de fiel compañero durante las más que seguras, horas de 
-desesperanza ante las tareas :laughing:.</p>
+# CETI: Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información
+
+Este repositorio es una colección de materiales y recursos didácticos de la especialización en **Ciberseguridad en Entornos de las Tecnologías de la Información**. Ha sido creado con el objetivo de servir como recurso de consulta y apoyo para estudiantes y profesionales que busquen profundizar en este campo en constante evolución.
 
 ### Asignaturas
 
-> Las asignaturas irán *"creciendo"* según pueda añadir material. Los nombres y orden de los temas pueden variar según el centro.  
-> Paciencia :innocent:
-
-<br />
+> Los nombres y el orden de los temas pueden variar según el centro. Este repositorio se irá actualizando con nuevo material.
 
 La estructura del temario se divide en:
-1. [Puesta en Producción Segura](./Puesta%20en%20Producción%20Segura/).
-2. [Análisis Forense Informático](./Análisis%20Forense%20Informático/).
-3. [Incidentes de Ciberseguridad](./Incidentes%20de%20Ciberseguridad/).
-4. [Normativa de Ciberseguridad](./Normativa%20de%20Ciberseguridad/).
-5. [Bastionado de redes y sistemas](./Bastionado%20de%20redes%20y%20sistemas/).
-6. [Hacking ético](./Hacking%20ético/).
-<br />
+1. Puesta en Producción Segura
+2. Análisis Forense Informático
+3. Incidentes de Ciberseguridad
+4. Normativa de Ciberseguridad
+5. Bastionado de redes y sistemas
+6. Hacking ético
 
-#### Prepara tus exámenes :dizzy:
+### Prepara tus exámenes
 
 Accede a diversos modelos de examen que pueden ayudarte a preparar las pruebas presenciales.
 
-<br />
-
-:paperclip: [Prepara tu examen de Puesta en Producción Segura](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20PPS.pdf).
-
-<br />
-
-:paperclip: [Prepara tu examen de Análisis Forense Informático](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20AFI.pdf).
-
-<br />
-
-:paperclip: [Prepara tu examen de Incidentes de Ciberseguridad](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20IDC.pdf).
-
-<br />
-
-:paperclip: [Prepara tu examen de Normativa de Ciberseguridad](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20NDC.pdf).
-
-<br />
-
-:paperclip: [Prepara tu examen de Bastionado de Redes y Sistemas](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20BRS.pdf).
-
-<br />
-
-:paperclip: [Prepara tu examen de Hacking Ético](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20HE.pdf).
-
-<br />
+* [Prepara tu examen de Puesta en Producción Segura](Puesta%20en%20Producción%20Segura/)
+* [Prepara tu examen de Análisis Forense Informático](Análisis%20Forense%20Informático/)
+* [Prepara tu examen de Incidentes de Ciberseguridad](Incidentes%20de%20Ciberseguridad/)
+* [Prepara tu examen de Normativa de Ciberseguridad](Normativa%20de%20Ciberseguridad/)
+* [Prepara tu examen de Bastionado de Redes y Sistemas](Bastionado%20de%20redes%20y%20sistemas/)
+* [Prepara tu examen de Hacking Ético](Hacking%20ético/)
 
 ### Extras
-Seguramente vayan saliendo  aportaciones, enlaces de interés u otras curiosidades que puedan enriquecerlo
- y que iré subiendo.
-<br />
-A continuación, os dejo algunos de los materiales que he ido recopilando para uso personal y que espero puedan ser de ayuda:
 
-<br />
+A continuación, se adjuntan enlaces y otros materiales que se han ido recopilando para enriquecer los temas del curso.
 
-[Materiales](./Materiales/).
-
-<br />
-
-:zap: [Glosario Ciberseguridad](./Materiales/Glosario%20Ciberseguridad.pdf).
-<br />
-
-:zap: [Uso de Metasploit](./Materiales/01%20-%20Uso%20de%20Metasploit.pdf).
-<br />
-
-:zap: [Bash Linux](./Materiales/Bash%20Linux.pdf).
-<br />
-
-:zap: [Burp Suite for pentester Turbo Intruder](./Materiales/Burp%20Suite%20for%20pentester%20Turbo%20Intruder.pdf).
-<br />
-
-:zap: [Burpsuite for Pentester-Logger](./Materiales/Burpsuite%20for%20Pentester-Logger.pdf).
-<br />
-
-:zap: [Comandos Unix-linux-guia de referencia](./Materiales/Comandos%20Unix-linux-guia%20de%20referencia.jpg).
-<br />
-
-:zap: [Electronic Crime  Scene Investigation](./Materiales/Electronic%20Crime%20%20Scene%20Investigation.pdf).
-<br />
-
-:zap: [Git-cheatsheet](./Materiales/Git-cheatsheet.jpg).
-<br />
-
-:zap: [HOJA DE TRUCOS](./Materiales/HOJA%20DE%20TRUCOS.pdf).
-<br />
-
-:zap: [IOS-APP-PENETRATION-TESTING](./Materiales/IOS-APP-PENETRATION-TESTING.pdf).
-<br />
-
-:zap: [JENKINS PENTESTING](./Materiales/JENKINS%20PENTESTING.pdf).
-<br />
-
-:zap: [lab1_introduccion_volatility](./Materiales/lab1_introduccion_volatility.pdf).
-<br />
-
-:zap: [Linux Kernel Crash Book](./Materiales/Linux%20Kernel%20Crash%20Book.pdf).
-<br />
-
-:zap: [Linux Notes dor Professionals](./Materiales/Linux%20Notes%20dor%20Professionals.pdf).
-<br />
-
-:zap: [linux-file-permissions](./Materiales/linux-file-permissions.jpg).
-<br />
-
-:zap: [Manual de Criptografía](./Materiales/Manual%20de%20Criptografía.pdf).
-<br />
-
-:zap: [MongoDB Notes for Professionals](./Materiales/MongoDB%20Notes%20for%20Professionals.pdf).
-<br />
-
-:zap: [MySql-pentration-testing](./Materiales/MySql-pentration-testing.pdf).
-<br />
-
-:zap: [Neo4j_CheatSheet_v3](./Materiales/Neo4j_CheatSheet_v3.pdf).
-<br />
-
-:zap: [NISTvsNIS2](./Materiales/NISTvsNIS2.jpg).
-<br />
-
-:zap: [Programación Shell](./Materiales/Programación%20Shell.pdf).
-<br />
-
-:zap: [SSH-PENETRATION-TESTING](./Materiales/SSH-PENETRATION-TESTING.pdf).
-<br />
-
-:zap: [Volatility_CheatSheet_v2.4](./Materiales/Volatility_CheatSheet_v2.4.pdf).
-<br />
-
-:zap: [VULNERABILITY-SCAN-NMAP-PENTESTER](./Materiales/VULNERABILITY-SCAN-NMAP-PENTESTER.pdf).
-<br />
-
-:zap: [WINDOWS-PRILEGE-ESCALATION](./Materiales/WINDOWS-PRILEGE-ESCALATION.pdf).
-<br />
-
-:zap: [Wireless-penetration-testing-AIRCRACK-NG](./Materiales/Wireless-penetration-testing-AIRCRACK-NG.pdf).
-<br />
-
-:zap: [wireshark-cheatsheet](./Materiales/wireshark-cheatsheet.jpg).
-<br />
-
-:zap: [WordLists For Pentester](./Materiales/WordLists%20For%20Pentester.pdf).
-<br />
-<br />
-
----
-Si es de utilidad, espero que añadais una :star: a este repo!.
-
-<br />
+* [Glosario Ciberseguridad](Materiales/Glosario%20Ciberseguridad.pdf)
+* [Uso de Metasploit](Materiales/Uso%20de%20Metasploit.pdf)
+* [Bash Linux](Materiales/Bash%20Linux.pdf)
+* [Burp Suite for pentester Turbo Intruder](Materiales/Burp%20Suite%20for%20pentester%20Turbo%20Intruder.pdf)
+* [Burpsuite for Pentester-Logger](Materiales/Burpsuite%20for%20Pentester-Logger.pdf)
+* [Comandos Unix-linux-guia de referencia](Materiales/Comandos%20Unix-linux-guia%20de%20referencia.pdf)
+* [Electronic Crime Scene Investigation](Materiales/Electronic%20Crime%20Scene%20Investigation.pdf)
+* [Git-cheatsheet](Materiales/Git-cheatsheet.pdf)
+* [HOJA DE TRUCOS](Materiales/HOJA%20DE%20TRUCOS.pdf)
+* [IOS-APP-PENETRATION-TESTING](Materiales/IOS-APP-PENETRATION-TESTING.pdf)
+* [JENKINS PENTESTING](Materiales/JENKINS%20PENTESTING.pdf)
+* [lab1_introduccion_volatility](Materiales/lab1_introduccion_volatility.pdf)
+* [Linux Kernel Crash Book](Materiales/Linux%20Kernel%20Crash%20Book.pdf)
+* [Linux Notes dor Professionals](Materiales/Linux%20Notes%20dor%20Professionals.pdf)
+* [linux-file-permissions](Materiales/linux-file-permissions.pdf)
+* [Manual de Criptografía](Materiales/Manual%20de%20Criptografía.pdf)
+* [MongoDB Notes for Professionals](Materiales/MongoDB%20Notes%20for%20Professionals.pdf)
+* [MySql-pentration-testing](Materiales/MySql-pentration-testing.pdf)
+* [Neo4j_CheatSheet_v3](Materiales/Neo4j_CheatSheet_v3.pdf)
+* [NISTvsNIS2](Materiales/NISTvsNIS2.pdf)
+* [Programación Shell](Materiales/Programaci%C3%B3n%20Shell.pdf)
+* [SSH-PENETRATION-TESTING](Materiales/SSH-PENETRATION-TESTING.pdf)
+* [Volatility_CheatSheet_v2.4](Materiales/Volatility_CheatSheet_v2.4.pdf)
+* [VULNERABILITY-SCAN-NMAP-PENTESTER](Materiales/VULNERABILITY-SCAN-NMAP-PENTESTER.pdf)
+* [WINDOWS-PRILEGE-ESCALATION](Materiales/WINDOWS-PRILEGE-ESCALATION.pdf)
+* [Wireless-penetration-testing-AIRCRACK-NG](Materiales/Wireless-penetration-testing-AIRCRACK-NG.pdf)
+* [wireshark-cheatsheet](Materiales/wireshark-cheatsheet.pdf)
+* [WordLists For Pentester](Materiales/WordLists%20For%20Pentester.pdf)
 
 ---
 
-### Descargo de Responsabilidad
-Las técnicas, procesos, procedimientos o productos que aparezcan en este repositorio están destinados a 
-la formación.
+### Aviso de Responsabilidad
 
-<br />
+Las técnicas, procesos, procedimientos o productos que aparecen en este repositorio están destinados únicamente a la formación y con fines didácticos.
 
-Cada usuario debe conocer los límites y leyes (y obedecerlas), por lo que si se comenten acciones ilícitas 
-serán sólo y de manera exclusiva, bajo su responsabilidad.
-<br />
+Cada usuario es responsable de conocer y respetar la legislación vigente. El uso de la información para fines ilícitos es responsabilidad exclusiva del usuario.
 
-[![Linkedin: JagMolar](https://img.shields.io/badge/LinkedIn-juanantoniogarciamuelas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanantoniogarciamuelas)](https://www.linkedin.com/in/juanantoniogarciamuelas)
-[![GitHub JagMolar](https://img.shields.io/github/followers/JagMolar?label=follow&style=social)](https://github.com/JagMolar)
-[![Web](https://img.shields.io/badge/Web-JagMolar-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://juanantoniogarciamuelas.es)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juangmuelas@gmail.com)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jagmolar)
 ---
-<!-- Imagen de <a href="https://pixabay.com/es/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4694502">Gerd Altmann</a> en <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4694502">Pixabay</a>  -->
+
+### Sobre el autor
+
+Para conocer más sobre mi trayectoria profesional, puedes visitar mi [**CV online**](https://javierdiaz.com.es/).
+
+---
+
+Si este repositorio te ha resultado útil, considera añadir una :star:
